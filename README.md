@@ -7,7 +7,7 @@ A full stack developer with cloud development, passionate about creating somethi
 
 
 - 🔭 I’m currently working on cloud deployment.
-- 🌱 I’m currently learning software engineer.
+- 🌱 I’m currently working as a full stack engineer.
 - 👯 I’m willing to join your team and looking to collaborate on web projects
 - 💬 Feel free to ask me about web technologist in any language
 - 📫 You can reach me through mail hazeezet@gmail.com or find me anywhere using my username **hazeezet**
