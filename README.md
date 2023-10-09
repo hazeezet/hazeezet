@@ -15,6 +15,7 @@ A full stack developer with cloud development, passionate about creating somethi
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazeezet&count_private=true&show_icons=true&theme=radical)](https://github.com/hazeezet/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hazeezet&theme=radical)]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazeezet&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/hazeezet/github-readme-stats)
